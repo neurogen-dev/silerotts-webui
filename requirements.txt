@@ -1,0 +1,7 @@
+gradio
+torch
+omegaconf
+argparse
+git+https://github.com/Yuego/num2t4ru
+
+
