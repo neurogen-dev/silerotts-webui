@@ -2,7 +2,7 @@
 
 Преобразование txt файлов в озвученный wav файл при помощи SileroTTS
 
-Мой телеграм канал: [Neurogen](https://t.me/neurogen_news)https://t.me/neurogen_news
+Мой телеграм канал: [Neurogen](https://t.me/neurogen_news)
 
 # В проекте использовались:
 
