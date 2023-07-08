@@ -53,7 +53,7 @@ def main():
     preprocessed_lines, preprocessed_text_len = preprocess_text(origin_lines, line_length_limit)
     write_lines(input_filename + '_preprocessed.txt', preprocessed_lines)
     # exit(0)
-    #download_models_config()
+    download_models_config()
     print_models_information()
     # find_max_line_length_all(input_filename, origin_lines)
     # exit(0)
