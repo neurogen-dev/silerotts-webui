@@ -2,5 +2,5 @@
 
 
 call venv\Scripts\activate.bat
-python webui.py
+python webui_tts.py
 pause
