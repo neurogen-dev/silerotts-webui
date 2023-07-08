@@ -8,5 +8,5 @@
 
 Проект построен на базе [Silero TTS](https://github.com/snakers4/silero-models)
 
-Основа для файла tts.py была взята из проекта [silero_tts_standalone](https://github.com/S-trace/silero_tts_standalone)https://github.com/S-trace/silero_tts_standalone
+Основа для файла tts.py была взята из проекта [silero_tts_standalone](https://github.com/S-trace/silero_tts_standalone)
 
